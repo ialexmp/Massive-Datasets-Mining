@@ -1,4 +1,6 @@
 # Practicum
+> [!NOTE]  
+> You can access the template of each of the notebooks and data used [here](https://github.com/chatox/data-mining-course/tree/master/practicum)
 
 ## Software requirements
 
@@ -22,7 +24,7 @@ You will need:
 
 ## Practice sessions
 
-You can access the template of each of the notebooks [here](https://github.com/chatox/data-mining-course/tree/master/practicum)
+
 
 Practice sessions are conducted with a computer.
 
