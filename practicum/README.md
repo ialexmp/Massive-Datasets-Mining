@@ -22,6 +22,8 @@ You will need:
 
 ## Practice sessions
 
+You can access the template of each of the notebooks [here](https://github.com/chatox/data-mining-course/tree/master/practicum)
+
 Practice sessions are conducted with a computer.
 
 There are 09 practice sessions in this course, the handouts are Python notebooks. Download the notebooks, open them, and follow the instructions there. Each session starts with *psNN* and describe the activities that the students must perform during the practice session.
