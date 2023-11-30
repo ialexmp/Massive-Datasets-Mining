@@ -1,6 +1,7 @@
 # Data Mining Course
 
 Instructor: [Teodora Sandra Buda](https://tbuda.github.io/)
+
 UPF Course Github: https://github.com/chatox/data-mining-course/
 
 # Main bibliography
